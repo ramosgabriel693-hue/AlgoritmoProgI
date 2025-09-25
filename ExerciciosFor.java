@@ -1,6 +1,6 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 public class ExerciciosFor{
-public static void  main (String [] args) {
+public static void  main (String [] args) { // Gabriel Rodrigues Ramos 
 
 //Exercício 1 - Faça um programa que imprima a seguinte sequência: 100, 99, 98, . . . 1.
 
@@ -252,6 +252,7 @@ e.close ();
 
 }
 }
+
 
 
 
