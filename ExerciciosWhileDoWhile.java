@@ -1,4 +1,4 @@
-public class ExerciciosWhileDoWhile {
+public class ExerciciosWhileDoWhile { // Gabriel Rodrigues Ramos 
 public static void main (String [] args) {
 
 // Exercício 1 - Escreva um algoritmo que imprima a sequência do número 100 ao 200.
@@ -308,6 +308,7 @@ System.out.println( "Exercício 9 - Dado o cardápio de uma lanchonete:código  
 
 }
 }
+
 
 
 
